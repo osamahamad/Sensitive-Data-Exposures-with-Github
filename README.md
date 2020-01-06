@@ -6,6 +6,7 @@ Techniques / Tips and tricks for finding sensitive data exposures in Github for 
 https://www.youtube.com/watch?v=l0YsEk_59fQ 
 
 ## Find Sensitive information leaks : ( Manual Approch ) 
+
 Below basic examples : 
 
 "Company" password 
