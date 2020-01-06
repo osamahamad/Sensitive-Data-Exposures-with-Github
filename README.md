@@ -10,18 +10,31 @@ https://www.youtube.com/watch?v=l0YsEk_59fQ
 Below basic examples : 
 
 "Company" password 
+
 "Company" secret 
+
 "Company" credentials 
+
 "Company" token 
+
 "Company" config 
+
 "Company" key 
+
 "Company" pass 
+
 "Company" login
+
 "Company" ftp
+
 "Company" pwd
+
 "Company" vspher
+
 "Company" aws
+
 "Company" jenkins
+
 
 
 
@@ -29,15 +42,24 @@ Below basic examples :
 With creaitivity there is a lot of stuff to look for : 
 
 "Company" security_credentials    ---> LDAP ( active directories ) 
+
 "Company" connectionstring    ---> Database Cred
+
 "Company" JDBC ---> Database Cred
+
 "Company" ssh2_auth_password ---> unautorized access to servers 
+
 "Company" send_keys 
+
 "Company" send,keys
+
 "Company" ldap
 
+
 List of keywords , much thanks : 
+
 https://github.com/random-robbie/keywords/blob/master/keywords.txt
+
 https://securitytrails.com/blog/github-dorks
 
 
