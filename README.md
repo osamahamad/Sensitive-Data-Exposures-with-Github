@@ -108,3 +108,5 @@ Using TruffleHog : https://github.com/dxa4481/truffleHog
 
 
 Don't forget bitbucket, gitlab and google dorking 2.
+https://lmgtfy.com/
+
