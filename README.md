@@ -107,7 +107,7 @@ Using gitrob : https://github.com/michenriksen/gitrob
 
 Using TruffleHog : https://github.com/dxa4481/truffleHog
 
-
+Using gitGraber: https://github.com/hisxo/gitGraber
 
 Don't forget bitbucket, gitlab and google dorking 2.
 https://lmgtfy.com/
