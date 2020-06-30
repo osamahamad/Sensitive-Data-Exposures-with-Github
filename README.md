@@ -113,6 +113,9 @@ Using git-all-secrets: https://github.com/anshumanbh/git-all-secrets
 
 Using Truffle hunting: https://github.com/dxa4481/truffleHog
 
+
+https://github.com/gwen001/github-search
+
 Don't forget bitbucket, gitlab and google dorking 2.
 https://lmgtfy.com/
 
