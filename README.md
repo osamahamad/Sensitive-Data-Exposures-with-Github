@@ -119,3 +119,12 @@ https://github.com/gwen001/github-search
 Don't forget bitbucket, gitlab and google dorking 2.
 https://lmgtfy.com/
 
+_____________________________________
+
+## Google Dorks
+
+```
+intext:"© Example Inc."
+site:http://ideone.com "apikey" 
+site:http://ideone.com "aws_access_key_id"
+```
